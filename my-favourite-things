@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+ <head>
+   <title> My favourite things!</title>
+ </head>
+ <body>
+ Sky diving ftw
+ <p>Here is a link to my <a href="favorite-things.html">favorite things</a>.</p>
+ </body>
+ </html>
